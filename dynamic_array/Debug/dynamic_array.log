@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\parse\OneDrive\Документы\leti\programming\homework2\homework2\dynamic_array\Source.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\parse\OneDrive\Документы\leti\programming\homework2\homework2\dynamic_array\Source.cpp(29,23): warning C4018: '<': signed/unsigned mismatch
+  dynamic_array.vcxproj -> C:\Users\parse\OneDrive\Документы\leti\programming\homework2\homework2\Debug\dynamic_array.exe
