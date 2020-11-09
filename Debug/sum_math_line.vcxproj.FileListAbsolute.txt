@@ -1,0 +1,2 @@
+C:\Users\parse\OneDrive\Рабочий стол\leti\programming\sum_math_line\Debug\sum_math_line.exe
+C:\Users\parse\OneDrive\Рабочий стол\leti\programming\sum_math_line\Debug\sum_math_line.pdb
